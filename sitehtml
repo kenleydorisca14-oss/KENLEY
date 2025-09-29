@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro HTML</title>
+  <link rel="stylesheet" href="style.css">   
+</head>
+<body>
+<header> 
+    <h1>Bem-vindo ao Meu Primeiro HTML!</h1>
+    <h2> Teste de H2> </h2>
+</header>
+<main>
+    <p>Este é um parágrafo de exemplo. Aqui você pode adicionar mais conteúdo.</p>
+    <img src ="saturno.jpg"width="500" height="500">
+    <h4> Coisas que eu gosto de fazer:</h4>
+    <li> Planetas, sitema solar </li>
+    <li> Andar de Bike </li>
+    <li> Dormir </li>
+    <li> Assistir Séries </li>
+    <li> Estudar </li>
+</ul>
+ <h4> Tópicos em numeração </h4> <!-- Lista Ordenada-->
+ <ol> 
+    <li> Arroz</li>
+    <li> Feijao</li>
+    <li> Carne</li> 
+    <li> Brócolis</li>
+</ol>
+</main> <!--fecha main -->
+<footer> <!-- rodapé-->
+    <a href="https://www.instagram.com/senai.sc"> Segue aí</a> 
+    <p> Aula de Programação de Aplicativos - 2025 </p>  
+</footer>
+</body>
+</html>
