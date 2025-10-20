@@ -1,0 +1,45 @@
+body {
+    font-family:'Times New Roman', Times, serif ;
+    margin: 0;
+    padding: 0;
+} 
+
+header { 
+    background: black;
+    color:white;
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-between; /* A direita*/
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+}
+
+h1{
+margin: 10;
+text-align: center
+main {
+    padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bloco {
+    border:1px;
+    margin: 20px 0;
+    padding: 15px;
+    background: rgb(200, 188, 188);
+}
+.bloco img,p{
+    margin: 10px auto;
+    padding: 10px;
+
+}
+
+button {
+    background-color:rgb(29, 24, 24)
+color rgb(238, 226, 226);
+border:nome;
+border-radius: 5px;
+padding: 20px 0;
+margin-top: 40px;
+color: rgb(224, 208, 208);
+font-size:14px;
